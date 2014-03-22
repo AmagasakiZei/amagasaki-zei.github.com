@@ -46,12 +46,12 @@ OpenSpending.Styles.Cofog = {
   '903': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' }, // 義務的経費 扶助費
   '904': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' }, // 義務的経費 その他
   '10': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }, // 投資的経費
-  '1001': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' } // 投資的経費 普通建設事業費
-  '1002': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' } // 投資的経費 災害復旧事業費
+  '1001': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }, // 投資的経費 普通建設事業費
+  '1002': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }, // 投資的経費 災害復旧事業費
   '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }, // その他の経費
-  '1101': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' } // その他の経費 貸付金等
-  '1102': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' } // その他の経費 公債費
-  '1103': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' } // その他の経費 他会計繰出金
+  '1101': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }, // その他の経費 貸付金等
+  '1102': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }, // その他の経費 公債費
+  '1103': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }, // その他の経費 他会計繰出金
   '1104': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' } // その他の経費 予備費
 };
 
