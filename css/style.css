@@ -207,3 +207,17 @@ footer a, footer a:hover {
   font-family: Palatino, georgia, 'times new roman', serif;
   font-size: 14px;
 }
+
+.ta01{
+border:1px solid #ccc;
+}
+.ta01 th,
+.ta01 td{
+border:1px solid #ccc;
+padding:5px;
+vertical-align:top;
+}
+.ta01 th{
+background-color: #f3f3f3;
+}
+
