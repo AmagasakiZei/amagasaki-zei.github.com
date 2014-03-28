@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'amagasaki_2014_2';
+OpenSpending.identifier = 'amagasaki_2014_3';
 OpenSpending.year = '2014';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
@@ -49,10 +49,10 @@ OpenSpending.Styles.Cofog = {
   '801': { icon: 'icons/unemployment.svg', color: '#C75746', bcolor: '#C75746' }, // 議会 議会費 *
 
   '9': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#3dcd85' }, // 義務的経費 *
-  '901': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#3dcd85' }, // 義務的経費 人件費 *
-  '902': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#3dcd85' }, // 義務的経費 物件費 *
-  '903': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#3dcd85' }, // 義務的経費 扶助費 *
-  '904': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#3dcd85' }, // 義務的経費 その他 *
+  '901': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#3dcd85' }, // 義務的経費 人件費 *
+  '902': { icon: 'icons/petrol.svg', color: '#C75746', bcolor: '#3dcd85' }, // 義務的経費 物件費 *
+  '903': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#3dcd85' }, // 義務的経費 扶助費 *
+  '904': { icon: 'icons/reserch.svg', color: '#C75746', bcolor: '#3dcd85' }, // 義務的経費 その他 *
 
   '10': { icon: 'icons/communication.svg', color: '#C75746', bcolor: '#790586' }, // 投資的経費 *
   '1001': { icon: 'icons/communication.svg', color: '#C75746', bcolor: '#790586' }, // 投資的経費 普通建設事業費 *
